@@ -11,8 +11,9 @@
 <br>
 <br>
 <form action="count" target="_self">
-<p style="text-align: center"><button> Click me</button>
-</p>
+    <p style="text-align: center">
+        <button> Click me</button>
+    </p>
 </form>
 
 </body>
